@@ -3,6 +3,7 @@ This is to keep track of the research work!
 
 
 AI Sharpens City Heat Maps: Physics-Informed Geospatial Downscaling
+
 Welcome to the overview document for the AI Sharpens City Heat Maps research framework. This project explores how combining artificial intelligence with physical laws can improve the clarity of urban temperature data, allowing scientists and planners to effectively map out localized climate risks.
 
 🌍 Core Theme
