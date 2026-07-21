@@ -1,4 +1,4 @@
-# What does the research paper want to convey🧐?\
+# What does the research paper want to convey🧐?
 
 Imagine you're standing outside.
 You want to know
